@@ -1,4 +1,4 @@
-var1 = 1
+var1 = 1  #
 var2 = 'some text'
 var3 = 3.14
 var4 = True
