@@ -11,3 +11,5 @@ elif proceeds == costs:
     print('Ваша фирма не получила прибыль')
 else:
     print('Ваша фирма ушла в убыток')
+
+# test1

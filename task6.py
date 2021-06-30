@@ -8,3 +8,5 @@ while distance < b:
     counter += 1
 
 print(counter)
+
+# test1

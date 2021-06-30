@@ -10,3 +10,5 @@ while num != 0:
     num //= 10
 
 print(max_digit)
+
+# test1
