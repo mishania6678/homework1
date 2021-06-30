@@ -7,3 +7,5 @@ print(f'Пример переменной типа\ninteger: {var1}\nstring: {va
 some_nums = input('Введите числа через запятую:')
 some_words = input('Введите слова через запятую:')
 print(f'Введенные числа: {some_nums}\nВведенные слова: {some_words}')
+
+# test1
